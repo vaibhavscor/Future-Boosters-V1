@@ -10,6 +10,6 @@
 
 Future Booster aims to enhance learning, foster mentorship connections, and create a collaborative environment for students to thrive.
 
-[ Reposotory ownsers. ].  Vaibhav Agrawal * Bhavya Sahu 
+[ Repository owners. ].  Vaibhav Agrawal * Bhavya Sahu 
 
 All rights are reserved to vaibhav.scor29@gmail.com for code and Idea
